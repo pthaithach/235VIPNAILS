@@ -1,0 +1,37 @@
+{
+    "data": {
+        "store"     : "VIP NAILS",
+        "slug"      : "vip-nails",
+        "phone"     : "(618) 316-7066",
+        "email"     : "freefalling6789@yahoo.com",
+        "address"   : "407 S 42nd St, Mt Vernon, Illinois 62864",
+        "state"     : "Illinois 62864",
+        "ward"      : "Mt Vernon",
+        "time_1"    : "Mon - Fri: 9:30 AM - 8:00 PM",
+        "time_2"    : "Sat: 9:30 AM - 7:00 PM",
+        "time_3"    : "Sun: Closed"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/people/VIP-Nails/100054630001528/",
+        "instagram" :   "#",
+        "google"    :   "https://goo.gl/maps/4GcKFPKFnSnwU7ck7", 
+        "booking"   :   "#",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12522.414196625212!2d-88.9426122!3d38.3118522!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8876c7ff86487457%3A0xed07e1575bc6a08f!2sVIP%20Nails!5e0!3m2!1svi!2s!4v1669102567922!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#000000",
+        "primary_light"         :   "#F2C4D0",
+        "primary_hover"         :   "#F2A2B1",
+        "secondary"             :   "#f8b8b6",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#ffffff",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "img/",
+    "domain":       "http://127.0.0.1:5500/"
+}
